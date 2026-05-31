@@ -1,0 +1,6 @@
+Pienso que es importante que las comunidades puedan crear sus propias herramientas tecnológicas usando tecnologías abiertas como Node.js, porque así pueden encontrar soluciones a problemas que viven en su día a día.
+ No siempre una aplicación creada por una empresa entiende las necesidades reales de una comunidad.
+ Cuando las personas participan en la creación de estas herramientas, se sienten más involucradas y comprometidas con los proyectos.
+ Además, al ser una tecnología gratuita y accesible, más personas tienen la oportunidad de aprender y aportar sus conocimientos.
+ Esto también ayuda a que la comunidad sea más independiente y no tenga que depender de terceros para resolver sus necesidades.
+ En mi opinión, las tecnologías abiertas permiten que las ideas de la gente se conviertan en soluciones útiles que benefician a todos.
